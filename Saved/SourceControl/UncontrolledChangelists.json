@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/Maps/Level1.umap",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/HD_GameInnocene.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/HD_GameInstance.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/Level1/L1_GameState.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/Level1/L1_GameMode.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/Level1/L1_PlayerState.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/Level1/L1_Character.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/HG_PlayerController.uasset",
+				"D:/Kuliah/SEMESTER 8/Tugas Akhir/Project Game/UE5 - Horror/UE5_Horror/Content/GameBP/Level1/L1_HUD.uasset"
+			]
+		}
+	]
+}
